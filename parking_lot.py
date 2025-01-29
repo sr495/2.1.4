@@ -3,7 +3,7 @@ vexcode_console_precision = 0
 row = 0
 col = 0
 openSpots = 0
-ParkingLot = [[0 for y in range(10)] for x in range(5)]
+ParkingLot = [[0 for y in range(5)] for x in range(5)]
 
 
 def when_started1():
